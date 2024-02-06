@@ -11,7 +11,7 @@ export default {
         "very-dark-blue":"#131518",
         "light-black":"#212731",
         "light-gray":"#7C8798",
-        "gray":"#7C8798",
+        "gray":"#969FAD",
         "orange":"#FC7614",
       },
     },
