@@ -24,7 +24,7 @@ export default function Card() {
               alt="illustration"
               className="w-[9rem] h-[6rem] mb-4 lg:[10.125rem] lg:h-[6.75rem]"
             />
-            <p className="text-orange bg-dark-blue px-2 py-1 rounded-full mt-4 text-sm lg:text-[0.9375rem]font-normal leading-[1.375rem] mb-4">
+            <p className="text-orange bg-dark-blue px-2 py-1 rounded-full mt-4 text-sm lg:text-[0.9375rem] leading-[1.375rem] mb-4">
               You selected {rating} out of 5
             </p>
             <h1 className="text-2xl lg:text-[1.75rem] font-bold mt-4">
